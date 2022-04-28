@@ -30,8 +30,6 @@ Clone this project and start with Expo:
   git clone https://github.com/andrehahn05/helpdesk.git
   cd helpdesk
   npm install 
-  or
-  yarn add
   expo start
 ```
 
