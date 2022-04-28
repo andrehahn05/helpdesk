@@ -25,7 +25,15 @@ App to manage maintenance calls. This application was created for the purpose of
 - Show real time status
 - And more...
 
-
+Clone this project and start with Expo: 
+```bash
+  git clone https://github.com/andrehahn05/helpdesk.git
+  cd helpdesk
+  npm install 
+  or
+  yarn add
+  expo start
+```
 
 
 
